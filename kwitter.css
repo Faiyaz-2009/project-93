@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.left-color {
+width: 45%;
+height: 100vh;
+background-color: #e066ff;
+ /* Your desired color */
+
+
+}
+
+
+.img{
+    margin-top: 15px;
+    width: 180px;
+    height: 180px;
+    justify-content: center;
+    border-radius: 90%;
+    
+
+}
+
+.text{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+
+.some{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    letter-spacing: 0.5px;
+}
+
+.join{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 25px;
+    background-color: black;
+    margin-left: 145px;
+    margin-right: 145px;
+    border-radius: 20px;
+
+}
+/* 
+.sign{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 25px;
+    margin-left: 700px;
+}
+
+.in{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 25px;
+    margin-left: 720px;
+    margin-bottom: 120px;
+
+} */
+
+
+.sign{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 28px;
+    position: absolute;
+    top: 100px;
+    left: 630px;
+}
+
+
+.what{
+    position: absolute;
+    top: 180px;
+    left: 650px;
+    width: 300px;
+    padding: 7px;
+    font-size: 17px;
+    
+
+}
+
+.button{
+    position: absolute;
+    top: 265px;
+    left: 970px;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+    width: 150px;
+    font-family: 'Inter', sans-serif;
+    background-color: #9607f5;
+    border-radius: 5px;
+    border-color: white;
+
+}
